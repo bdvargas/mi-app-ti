@@ -20,11 +20,11 @@ export default function FormularioTI() {
     <div className="max-w-4xl mx-auto px-6 py-10">
       {/* Logo ESAP */}
       <div className="flex justify-center mb-6">
-        <img
-          src="https://www.esap.edu.co/portal/wp-content/uploads/2019/09/logo_esap_blanco.png"
-          alt="Logo ESAP"
-          className="h-20"
-        />
+      <img
+  src="https://upload.wikimedia.org/wikipedia/commons/f/f9/ESAP_logo.png"
+  alt="Logo ESAP"
+  className="h-20 mx-auto"
+/>
       </div>
 
       <h1 className="text-2xl font-bold text-center mb-4">
